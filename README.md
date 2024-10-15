@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shahuljani
-- 👀 I’m interested in Video Editing , FrontEnd 
+- 👀 I’m interested in Full stack web devlopment , Video Editing
 - 🌱 I’m currently learning AI & ML
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me mrsjcreations1@gmail.com
